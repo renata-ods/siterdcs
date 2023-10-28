@@ -1,2 +1,3 @@
-# siterdcs
-Site desenvolvido pelas turmas do curso de Programação Web para o polo Chico Science do Rede Daora
+# Rede Daora Chico Science
+
+Esse site foi feito pelos alunos da área de tecnologia.
