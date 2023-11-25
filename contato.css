@@ -1,0 +1,216 @@
+.contato {
+    background-color: #404040;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .contato .div {
+    background-color: #404040;
+    width: 1920px;
+    height: 2973px;
+    position: relative;
+  }
+  
+  .contato .overlap-group {
+    position: absolute;
+    width: 1920px;
+    height: 1140px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/image-7.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .contato .vector {
+    position: sticky;
+    width: auto;
+    top: 444px;
+    height: auto;
+  }
+  
+  .contato .undraw-contact-us-re {
+    position: absolute;
+    width: 894px;
+    height: 448px;
+    top: 1208px;
+    left: 941px;
+  }
+  
+  .contato .contate-conosco-caso {
+    position: absolute;
+    top: 1387px;
+    left: 69px;
+    font-family: "Knewave-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contato .frame {
+    position: absolute;
+    width: 1195px;
+    height: 725px;
+    top: 1763px;
+    left: 314px;
+  }
+  
+  .contato .name-input {
+    position: absolute;
+    width: 557px;
+    height: 73px;
+    top: 46px;
+    left: 0;
+    background-color: #383838;
+    border-radius: 15px;
+  }
+  
+  .contato .nome {
+    width: 201px;
+    top: 7px;
+    left: 177px;
+    position: absolute;
+    font-family: "Kulim Park-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contato .name-input-2 {
+    width: 557px;
+    height: 73px;
+    top: 174px;
+    left: 0;
+    position: absolute;
+    background-color: #383838;
+    border-radius: 15px;
+  }
+  
+  .contato .text-wrapper {
+    width: 246px;
+    top: 135px;
+    left: 155px;
+    position: absolute;
+    font-family: "Kulim Park-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contato .name-input-3 {
+    width: 1195px;
+    height: 402px;
+    top: 323px;
+    left: 0;
+    position: absolute;
+    background-color: #383838;
+    border-radius: 15px;
+  }
+  
+  .contato .nome-2 {
+    width: 136px;
+    top: 280px;
+    left: 543px;
+    position: absolute;
+    font-family: "Kulim Park-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contato .name-input-4 {
+    width: 556px;
+    height: 73px;
+    top: 174px;
+    left: 639px;
+    position: absolute;
+    background-color: #383838;
+    border-radius: 15px;
+  }
+  
+  .contato .nome-3 {
+    width: 84px;
+    top: 135px;
+    left: 875px;
+    position: absolute;
+    font-family: "Kulim Park-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contato .telefone-input {
+    position: absolute;
+    width: 556px;
+    height: 73px;
+    top: 46px;
+    left: 639px;
+    background-color: #383838;
+    border-radius: 15px;
+  }
+  
+  .contato .text-wrapper-2 {
+    position: absolute;
+    width: 107px;
+    top: 13px;
+    left: 864px;
+    font-family: "Kulim Park-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contato .footer {
+    position: absolute;
+    width: 1763px;
+    height: 263px;
+    top: 2691px;
+    left: 78px;
+    background-color: transparent;
+  }
+  
+  .contato .line {
+    position: absolute;
+    width: 1700px;
+    height: 1px;
+    top: 36px;
+    left: 26px;
+    object-fit: cover;
+  }
+  
+  .contato .p {
+    position: absolute;
+    top: 127px;
+    left: 59px;
+    font-family: "LEMON MILK-Regular", Helvetica;
+    font-weight: 400;
+    color: #9a9a9a;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contato .image {
+    position: absolute;
+    width: 566px;
+    height: 226px;
+    top: 37px;
+    left: 1078px;
+    object-fit: cover;
+  }
+  

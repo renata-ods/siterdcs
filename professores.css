@@ -1,0 +1,168 @@
+.professores {
+    background-color: #404040;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .professores .div {
+    background-color: #404040;
+    width: 1920px;
+    height: 3724px;
+    position: relative;
+  }
+  
+  .professores .overlap-group {
+    position: absolute;
+    width: 1920px;
+    height: 1140px;
+    top: 0;
+    left: 0;
+  }
+  
+  .professores .rectangle {
+    position: absolute;
+    width: 1350px;
+    height: 150px;
+    top: 27px;
+    left: 285px;
+    background-color: #404040;
+    border-radius: 30px;
+    box-shadow: 0px 4px 10px #000000bf;
+  }
+  
+  .professores .text-wrapper {
+    position: absolute;
+    top: 77px;
+    left: 493px;
+    font-family: "LEMON MILK-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .professores .text-wrapper-2 {
+    position: absolute;
+    top: 77px;
+    left: 683px;
+    font-family: "LEMON MILK-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .professores .text-wrapper-3 {
+    position: absolute;
+    top: 77px;
+    left: 979px;
+    font-family: "LEMON MILK-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .professores .text-wrapper-4 {
+    position: absolute;
+    top: 77px;
+    left: 1248px;
+    font-family: "LEMON MILK-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .professores .image {
+    width: 1920px;
+    height: 1140px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .professores .vector {
+    position: absolute;
+    width: 1920px;
+    height: 252px;
+    top: 888px;
+    left: 0;
+  }
+  
+  .professores .footer {
+    position: absolute;
+    width: 1763px;
+    height: 263px;
+    top: 3393px;
+    left: 78px;
+    background-color: transparent;
+  }
+  
+  .professores .line {
+    position: absolute;
+    width: 1700px;
+    height: 1px;
+    top: 36px;
+    left: 26px;
+    object-fit: cover;
+  }
+  
+  .professores .p {
+    position: absolute;
+    top: 127px;
+    left: 59px;
+    font-family: "LEMON MILK-Regular", Helvetica;
+    font-weight: 400;
+    color: #9a9a9a;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .professores .img {
+    width: 566px;
+    height: 226px;
+    top: 37px;
+    left: 1078px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .professores .dropdown {
+    position: absolute;
+    width: 1310px;
+    height: 105px;
+    top: 1265px;
+    left: 305px;
+    background-color: #343434;
+    border-radius: 30px;
+  }
+  
+  .professores .text-wrapper-5 {
+    position: absolute;
+    top: 30px;
+    left: 221px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .professores .vector-2 {
+    position: absolute;
+    width: 53px;
+    height: 31px;
+    top: 37px;
+    left: 1213px;
+  }
+  
